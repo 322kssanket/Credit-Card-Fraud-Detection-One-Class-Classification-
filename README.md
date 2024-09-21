@@ -16,6 +16,9 @@ This algorithm learns a decision boundary that encompasses the majority of the d
 Datasets Used Credit Card Fraud Detection from Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 Getting Started
+
 Prerequisites
 Python 3.x
+
+
 Required Libraries: scikit-learn, numpy, matplotlib, pandas
